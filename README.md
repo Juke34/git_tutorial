@@ -38,5 +38,5 @@ d
 
 ## Author and contributors
  
-Juliette Hayer
-Jacques Dainat
+Juliette Hayer  (@jhayer)
+Jacques Dainat  (@Juke34)
