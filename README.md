@@ -1,4 +1,4 @@
-# A Git tutorial
+# A tiring Git tutorial
 
 This repository contains tutorial information related to the **NBIS/ELIXIR** course
 *Tools for Reproducible Research*, specifically the session on using the `git`
