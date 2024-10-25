@@ -8,3 +8,5 @@ software for version control.
 
 You can find the latest stable version of the Git tutorial for the course
 [here](https://uppsala.instructure.com/courses/73110/pages/git-1-introduction?module_item_id=367079).
+
+## More infomration
